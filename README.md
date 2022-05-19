@@ -1,4 +1,4 @@
-# Crud JavasCript Vanilla- App de orçamento pessoal
+# Crud JavaScript Vanilla- App de orçamento pessoal
 Aplicação de controle de finanças com fins de estudo em JS. (ES6).
 
 Praticas iniciais de Crud e armazenamento de dados para consulta através do local storage.
